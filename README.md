@@ -17,22 +17,41 @@ Wireframing plays a critical role in the design and development process by:
 
 ### 1. 🧱 Layout Structure  
 Defines the overall organization of content and components on a page.  
-**Example:** Dividing a homepage into header, sidebar, main content area, and footer. This helps designers visualize where each element will go and ensures consistency across pages.
+**Example:** Dividing a homepage into header, sidebar, main content area, and footer.
 
 ### 2. 🧭 Navigation  
 Represents how users move through the interface and find information.  
-**Example:** Including a top menu bar with links to "Home," "About," "Services," and "Contact" sections. This guides the user experience and helps prioritize key user journeys.
+**Example:** A top menu bar with links to "Home," "About," "Services," and "Contact."
 
 ### 3. 📝 Content Placement  
 Indicates where different types of content (text, images, videos) will be located.  
-**Example:** Placing a hero image with a headline and call-to-action button above the fold. This helps define content hierarchy and draws user attention to important areas.
+**Example:** A hero image with a headline and call-to-action button above the fold.
 
 ### 4. ⚙️ Functionality  
 Outlines interactive elements and how users will interact with them.  
-**Example:** Showing a search bar or a login form with input fields and buttons. These functional elements clarify user interactions and are essential for usability testing.
+**Example:** A login form with input fields and buttons for user authentication.
 
-## 🚀 Conclusion
+---
 
-Wireframing is an essential step in turning ideas into functional, user-centered digital products. It bridges the gap between concept and execution by providing a clear visual structure that guides the design and development process.
+## 🧪 Types of Wireframes
 
+### 🔹 Low-Fidelity Wireframes
+- **Appearance:** Basic, often black-and-white sketches with simple shapes.
+- **Purpose:** Focuses on structure, layout, and user flow—not visuals.
+- **Tools:** Paper sketches, Balsamiq, or simple digital tools.
+- **When Used:** Early stages of the design process for brainstorming and quick feedback.
+
+### 🔸 High-Fidelity Wireframes
+- **Appearance:** More polished and detailed, sometimes resembling the final product.
+- **Purpose:** Includes accurate spacing, typography, and even placeholder text or images.
+- **Tools:** Figma, Adobe XD, Sketch.
+- **When Used:** Later in the design process to test usability or present to stakeholders.
+
+---
+
+
+
+
+**Type:** 🔹 *Low-Fidelity Wireframe*  
+**Explanation:** This wireframe is low-fidelity because it uses simple shapes and placeholders to represent the interface. It focuses on structure and layout without including colors, detailed styling, or actual content. Ideal for quick iteration and early feedback.
 
