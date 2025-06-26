@@ -49,9 +49,29 @@ Outlines interactive elements and how users will interact with them.
 
 ---
 
-
-
-
 **Type:** 🔹 *Low-Fidelity Wireframe*  
 **Explanation:** This wireframe is low-fidelity because it uses simple shapes and placeholders to represent the interface. It focuses on structure and layout without including colors, detailed styling, or actual content. Ideal for quick iteration and early feedback.
+
+## 🛠️ Wireframing Tools
+
+Wireframing tools help designers create digital mockups of websites and applications. Here are some popular options:
+
+- **Balsamiq:** Great for low-fidelity sketches with a hand-drawn look.  
+- **Adobe XD:** Useful for high-fidelity wireframes, prototyping, and UI design.  
+- **Sketch:** A Mac-based design tool ideal for detailed wireframes and UI components.  
+- **Figma:** 🌟 **Highly recommended**
+
+### ⭐ Why Use Figma?
+
+Figma is a powerful, cloud-based design tool that’s widely used for wireframing, UI/UX design, and prototyping. Its collaborative features make it ideal for teams.
+
+**Key Features:**
+- Real-time collaboration
+- Intuitive drag-and-drop interface
+- Extensive library of components and plugins
+- Browser-based — no need to install software
+- Easy transition from wireframes to high-fidelity designs
+
+Figma streamlines the entire design process and makes wireframing fast, flexible, and team-friendly.
+
 
